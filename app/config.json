@@ -1,0 +1,11 @@
+{
+  "bot": {
+      "id": "837271630086537296",
+      "token": "ODM3MjcxNjMwMDg2NTM3Mjk2.YIqH-A.zkdlt_5sRfB3fw0dw-9Jt49cnzQ",
+      "secret": "M8hPZdwQRJvAsuSyVmdGlKXu7lJ1heBj"
+  },
+  "dashboard": {
+      "url": "https://badr-app.glitch.me"
+  },
+  "mongoURL": "mongodb+srv://admin:rCPVOGPCcwcEFvkS@cluster0.xv8gm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
